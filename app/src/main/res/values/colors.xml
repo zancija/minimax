@@ -1,0 +1,8 @@
+<resources>
+    <color name="black_overlay">#66000000</color>
+    <color name="orange_yellow">#F8F2DA</color>
+    <color name="fuschia">#C7AFBD</color>
+    <color name="light_blue">#DDECEF</color>
+    <color name="blue_violet">#484452</color>
+    <color name="white">#FFFFFF</color>
+</resources>
